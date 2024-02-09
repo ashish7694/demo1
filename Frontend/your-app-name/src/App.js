@@ -10,10 +10,6 @@ function App() {
         {/* <p>ashish</p> */}
         {/* <p>punpun</p> */}
         {/* <p>punpun</p> */}
-        
-
-
-        <h>jjjj</h>
         <p>
           Edit <code>src/App.js</code> and saves to reloaddddddddd.
         </p>
@@ -23,7 +19,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reactssssssssssss
         </a>
       </header>
     </div>
