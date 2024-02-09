@@ -10,9 +10,8 @@ function App() {
         {/* <p>ashish</p> */}
         {/* <p>punpun</p> */}
         {/* <p>punpun</p> */}
-        <p>nitish</p>
         <p>
-          Edit <code>src/App.js</code> and saves to reloaddddddddd.
+          Edit <code>src/App.js</code> and saves to reloadddddddddeeeeeeeeeeee.
         </p>
         <a
           className="App-link"
