@@ -1,0 +1,15 @@
+version: '3'
+services:
+  demo_frontend:
+    image: frontend:latest
+    container_name: demoreact
+    restart: "always"
+    command: npm start
+    volumes:
+      - D:\Demo\Frontend\your-app-name\src:/myapp/frontend/src:rw
+      - D:\Demo\Frontend\your-app-name\package-lock.json:/myapp/frontend/package-lock.json:rw
+      - D:\Demo\Frontend\your-app-name\package.json:/myapp/frontend/package.json:rw
+
+    ports:
+      - "3000:3000"
+
