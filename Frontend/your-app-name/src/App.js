@@ -28,15 +28,9 @@ function App() {
         >
           Learn Reactssssssssssss
         </a>
-<<<<<<< HEAD
-        <p>kkkkkkkkkkkkkkkkkk</p>
-        <p>kkkkkkkkkkkkkkkkkkk</p>
-        <p>delhiiiiiiiii</p>
-=======
         <p>jjjjjjjjjjjjjjjjjjj</p>
         <p>jjjjjjjjjjjjjjjjjjj</p>
 
->>>>>>> 9b3cecbb302adc2e009a13feb11dd58de71c7678
       </header>
     </div>
   );
