@@ -17,16 +17,9 @@ function App() {
         </p>
         <p>add</p>
         <p>addssssssss</p>
-<<<<<<< HEAD
         <p>addsssssssslll</p>
         <p>addsssssssslll</p>
         <p>addsssssssslll</p>
-
-=======
-        <p>addssssssssllljjjjjjjjjjjjjj</p>
-        <p>addssssssssllljjjjjjjjjjjjjj</p>
->>>>>>> origin/firstchanges
-
         <a
           className="App-link"
           href="https://reactjs.org"
