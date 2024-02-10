@@ -9,7 +9,12 @@ function App() {
         {/* <p>ashish</p> */}
         {/* <p>ashish</p> */}
         {/* <p>punpun</p> */}
+<<<<<<< HEAD
         {/* <p>punpun</p> */}
+=======
+        {/* <p>punpuns</p> */}
+        
+>>>>>>> origin/master
         <p>
           Edit sssssssssssss<code>src/App.js</code> and saves to reloauhfffffffffffffffffffdddddddddeeeeeeeeeeeess.
         </p>
