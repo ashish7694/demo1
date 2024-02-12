@@ -25,13 +25,8 @@ function App() {
         </a>
         <p>jjjjjjjjjjjjjjjjjjjpppppppppppppp</p>
         <p>jjjjjjjjjjjjjjjjjjj</p>
-<<<<<<< HEAD
         <p>delhiiiiiiiiiiii</p>    
         <p>delhiiiiiiiiiiiillllllllllllllllllllllllllllllllllllllllllllllllllll</p>    
-=======
-        <p>mondayyyyyyyyy</p>    
-
->>>>>>> 3d58e58fa64d896eed500213b1edec1ae0ce7643
       </header>
     </div>
   );
