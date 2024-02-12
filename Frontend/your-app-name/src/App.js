@@ -5,13 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        {/* <p>ashish</p> */}
-        {/* <p>ashish</p> */}
-        {/* <p>punpun</p> */}
-        {/* <p>punpun</p> */}
-        {/* <p>punpuns</p> */}
-        
+        <img src={logo} className="App-logo" alt="logo" />    
         <p>
           Edit sssssssssssss<code>src/App.js</code> and saves to reloauhfffffffffffffffffffdddddddddeeeeeeeeeeeess.
         </p>
@@ -28,19 +22,7 @@ function App() {
         >
           Learn Reactssssssssssss
         </a>
-<<<<<<< HEAD
-=======
-        <p>jjjjjjjjjjjjjjjjjjj</p>
-        <p>jjjjjjjjjjjjjjjjjjj</p>
-        <p>delhiiiiiiiiiiii</p>    
-<<<<<<< HEAD
-
-=======
->>>>>>> parent of 9fe5bc5 ('fstcom2')
-        <p>delhiiiiiiiiiiii</p>    
->>>>>>> parent of e1f427b ('fstcom8')
       </header>
-
     </div>
   );
 }
