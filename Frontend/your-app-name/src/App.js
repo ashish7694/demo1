@@ -31,9 +31,7 @@ function App() {
         <p>jjjjjjjjjjjjjjjjjjj</p>
         <p>jjjjjjjjjjjjjjjjjjj</p>
         <p>delhiiiiiiiiiiii</p>    
-        <p>delhiiiiiiiiiiii</p>
         <p>delhiiiiiiiiiiii</p>    
-    
       </header>
     </div>
   );
