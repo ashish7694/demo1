@@ -31,11 +31,8 @@ function App() {
         <p>jjjjjjjjjjjjjjjjjjj</p>
         <p>jjjjjjjjjjjjjjjjjjj</p>
         <p>delhiiiiiiiiiiii</p>    
-<<<<<<< HEAD
 
-=======
         <p>delhiiiiiiiiiiii</p>    
->>>>>>> parent of 9fe5bc5 ('fstcom2')
       </header>
     </div>
   );
