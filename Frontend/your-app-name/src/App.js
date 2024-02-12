@@ -28,6 +28,17 @@ function App() {
         >
           Learn Reactssssssssssss
         </a>
+<<<<<<< HEAD
+=======
+        <p>jjjjjjjjjjjjjjjjjjj</p>
+        <p>jjjjjjjjjjjjjjjjjjj</p>
+        <p>delhiiiiiiiiiiii</p>    
+<<<<<<< HEAD
+
+=======
+>>>>>>> parent of 9fe5bc5 ('fstcom2')
+        <p>delhiiiiiiiiiiii</p>    
+>>>>>>> parent of e1f427b ('fstcom8')
       </header>
 
     </div>
